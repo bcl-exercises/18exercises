@@ -4,8 +4,10 @@
 
 1. [GitHubの使い方はこちら](GitHub-Intro.md)を見て，GitHubを使う準備をしましょう。
 2. 実習用レポジトリに以下のディレクトリをつくりましょう。
-	- arduino: 実習でつくったArduinoのプログラムとプレゼン資料の格納場所
-	- unix: unixのお勉強用
+	- arduino
+		- 実習でつくったArduinoのプログラムとプレゼン資料の格納場所
+	- unix
+		- unixのお勉強用
 
 
 
