@@ -2,18 +2,10 @@
 
 ## GitHubについて
 
-1. 招待URL(別途連絡)をクリック
-2) 宿題用レポジトリのリンクが表示されるので，クリック
-3) README.md, GitHub-Intro.md というファイルが入ったレポジトリが作られます。
-   - 宿題についてはREADME.mdを参照(手元のパソコン上で2つディレクトリを作って，GitHubに反映させる)
-   - gitコマンドの使い方はGitHub-Intro.mdを参照
-
-[GitHubの使い方はこちら](GitHub-Intro.md)を見て，GitHubを使う準備をしましょう。
-
-実習用レポジトリに以下のディレクトリをつくりましょう。
-
-- arduino: 実習でつくったArduinoのプログラムとプレゼン資料の格納場所
-- unix: unixのお勉強用
+1. [GitHubの使い方はこちら](GitHub-Intro.md)を見て，GitHubを使う準備をしましょう。
+2. 実習用レポジトリに以下のディレクトリをつくりましょう。
+	- arduino: 実習でつくったArduinoのプログラムとプレゼン資料の格納場所
+	- unix: unixのお勉強用
 
 
 
